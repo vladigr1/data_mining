@@ -1,0 +1,6 @@
+{
+    "python.autoComplete.extraPaths": [
+        "C:\\Users\\vladi\\anaconda3\\Lib\\site-packages"
+    ],
+    "python.pythonPath": "C:\\Users\\vladi\\anaconda3\\python.exe",
+}
